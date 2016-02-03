@@ -1,7 +1,7 @@
 require 'pp'
 require_relative 'User'
 
-user = User.new 'katryc@outlook.com', 'kat'
+user = User.new 'kingKong@empirestate.com', 'Moe'
 
 pp user
 

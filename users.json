@@ -1,3 +1,3 @@
 {"email":"test@test.com","name":"John","permissions":{"accounts":"read","policies":"write","user":"write"}}
 {"email":"johndoe@example.com","name":"Bob","permissions":{"accounts":"read","policies":"write","user":"write"}}
-{"email":"katryc@outlook.com","name":"kat","permissions":{"accounts":"read","policies":"write","user":"write"}}
+{"email":"jim@email.com","name":"Jim","permissions":{"accounts":"read","policies":"write","user":"write"}}
